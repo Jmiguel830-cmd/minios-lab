@@ -1,6 +1,6 @@
-# miniOS — Laboratorio de Scheduler
+# Trabajo Final — Sistemas Operativos: Implementación de Scheduler y miniShell
 
-Laboratorio de Sistemas Operativos donde implementas el núcleo de un **scheduler round-robin** que gestiona procesos reales del sistema operativo, **y parte del shell interactivo** que lo controla. Toda la demás infraestructura (estructuras de datos, bridge de eventos y dashboard web) viene dada. Tu trabajo es escribir **8 funciones** repartidas en `src/scheduler.c` (4 funciones) y `src/shell.c` (4 funciones).
+Trabajo final del curso de Sistemas Operativos en el que implementas el núcleo de un **scheduler round-robin** que gestiona procesos reales del sistema operativo, **junto con un miniShell interactivo** para controlarlo. Toda la demás infraestructura (estructuras de datos, bridge de eventos y dashboard web) viene dada. Tu trabajo es escribir **8 funciones** repartidas en `src/scheduler.c` (4 funciones) y `src/shell.c` (4 funciones).
 
 ---
 
